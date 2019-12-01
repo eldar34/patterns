@@ -1,5 +1,5 @@
 <?php
-
+namespace Solid\SingleResponsible;
 
 class Product
 {
